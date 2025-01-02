@@ -1,4 +1,6 @@
-import { Localitation } from '../Components/icons/Localitation.jsx';
+import { Github } from '../Components/icons/Github.jsx';
+import { Linkedin } from '../Components/icons/Linkedin.jsx';
+import { Localitation} from '../Components/icons/Localitation.jsx';
 import { IconWork } from '../Components/icons/iconWork.jsx';
 
 export const Tarjeta = () => {
@@ -18,6 +20,12 @@ export const Tarjeta = () => {
                 <hr/>
         
                 <div className="p-4 ml-4 mr-4">Desarrollador web principiante, con habilidades para crear interfaces de usuario atractivas, funcionales, así como en la gestión de datos y versiones de proyectos. Enfocado en escribir código estructurado y en aprender continuamente. Con capacidad para colaborar en equipo, optimizar la experiencia del usuario y contribuir al desarrollo de soluciones innovadoras y eficientes.</div>
+                
+                <div className='flex p-4 pl-[130px]'>
+                <Github></Github>
+                <Linkedin></Linkedin>
+                <p className=' ml-8 text-center'>Celular: 3307897644</p>
+                </div>
             </div>
 
         </section>
