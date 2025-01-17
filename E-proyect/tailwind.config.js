@@ -12,6 +12,7 @@ export default {
         secundary: 'var(--color-secundary)',
         neutro: 'var(--color-neutro)',
         accent: 'var(--color-accent)', 
+        trans: 'var(--color-trans)', 
         
       },  
     },

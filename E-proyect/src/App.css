@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background-color: hsla(0, 0%, 0%, 1);
+    background-image: radial-gradient(circle at 7% 81%, hsla(172, 0%, 0%, 1) 16%, transparent 53%), radial-gradient(circle at 5% 1%, rgb(83, 209, 180) 7%, transparent 84%), radial-gradient(circle at 39% 52%, hsla(87.85714285714286, 91%, 23%, 1) 6%, transparent 68%), radial-gradient(circle at 11% 29%, hsla(87.85714285714286, 91%, 23%, 1) 8%, transparent 74%), radial-gradient(circle at 90% 50%, hsla(106.00000000000003, 0%, 0%, 1) 2%, transparent 85%);
+    background-blend-mode: normal, normal, normal, normal, normal;
+    /*background-image: linear-gradient(to top, #F97316 10%, #F7FAFC 50%, #60A5FA 100% ); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+}
